@@ -10,7 +10,7 @@ Este repositório é dedicado a revisão geral do conhecimento que tenho a cerca
 - **Python:** [_Extensão desenvolvida pela Microsoft_](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)
 - **Code Runner:** [_Jun Han_](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-### Esta configuração já é o suficiente para codar em Pytho no VS Code, ao longo da revisão poderá ser encaixado mais alguma extensão que faça sentido ao ambiente de desenvolvimento.
+### Esta configuração já é o suficiente para codar em Python no VS Code, ao longo da revisão poderá ser encaixado mais alguma extensão que faça sentido ao ambiente de desenvolvimento.
 
 
 
