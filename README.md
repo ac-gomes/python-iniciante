@@ -4,7 +4,7 @@ Este repositório é dedicado a revisão geral do conhecimento que tenho a cerca
 ## Configuração do Ambiente de Desenvolvimento (Linux)
 - **Maquina:** [_WSL2_](https://docs.microsoft.com/pt-br/windows/wsl/about)
 - **Sistema Operacional:** [_Ubunto 20.04_](https://releases.ubuntu.com/20.04/)
-- **IDE/Editor de Textto:** [_Visual Studio Code_](https://code.visualstudio.com/download)
+- **IDE/Editor de Texto:** [_Visual Studio Code_](https://code.visualstudio.com/download)
 
 ## Extensões do Visual Studio Code para rodar Python
 - **Python:** [_Extensão desenvolvida pela Microsoft_](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites)
