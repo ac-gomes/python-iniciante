@@ -8,7 +8,7 @@ print("subtracao:", subtracao)
 multiplicacao = 5 * 5
 print("multiplicacao:", multiplicacao)
 
-divisao = 20 // 2
+divisao = 20 / 2
 print("divisao:", divisao)
 
 exponenciacao = 5 ** 2
